@@ -3,3 +3,5 @@ Esta es la historia de Juanito
 Juanito Tiene 25 años y nacio en Bogota
 
 Ahora esta estudiando para ser programador web y de otros aplicativos 
+
+Hoy hablaremos de su vida

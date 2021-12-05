@@ -9,5 +9,6 @@ Un blog increible creado para el [curso de Git y GitHub](https://platzi.com/clas
 * Las multiples personalidades de Freddy
 * creado por el increible yuuto
 * Hecho con amor en linux
+* PG13
 
 Y como un amable recordatorio. **Este Readme.md es un chiste**. Diseñado como broma por Freddie.

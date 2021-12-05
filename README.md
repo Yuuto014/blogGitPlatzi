@@ -7,5 +7,6 @@ Un blog increible creado para el [curso de Git y GitHub](https://platzi.com/clas
 * Comando de Git
 * Flujo de trabajo con GitHub
 * Las multiples personalidades de Freddy
+* creado por el increible yuuto
 
 Y como un amable recordatorio. **Este Readme.md es un chiste**. Diseñado como broma por Freddie.
